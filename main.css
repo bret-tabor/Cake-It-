@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+.logo, .formGreeting, .formThanks {
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+}
